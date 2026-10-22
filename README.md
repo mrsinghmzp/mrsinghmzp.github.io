@@ -1,4 +1,4 @@
-# Paul Leung - Immersive 3D Portfolio
+# Rahul Singh - Immersive 3D Mobile Portfolio
 
 ![Portfolio Hero](./public/hero.png)
 
@@ -58,7 +58,7 @@ src/
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/PaulLeung93/portfolio-site.git
+    git clone https://github.com/mrsinghmzp/portfolio-site.git
     cd portfolio-site
     ```
 
@@ -81,9 +81,9 @@ src/
 
 ## ✉️ Contact
 
-- **Email**: [PaulLeung93@gmail.com](mailto:PaulLeung93@gmail.com)
-- **LinkedIn**: [Paul Leung](https://www.linkedin.com/in/leung-paul)
-- **Portfolio**: [Live Demo](https://paulleung93.github.io/portfolio-site/)
+- **Email**: [rahul.cs6765@gmail.com](mailto:rahul.cs6765@gmail.com)
+- **LinkedIn**: [Rahul Singh](https://linkedin.com/in/singhmzp)
+- **GitHub**: [mrsinghmzp](https://github.com/mrsinghmzp)
 
 ---
 

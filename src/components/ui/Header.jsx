@@ -43,7 +43,7 @@ const Header = () => {
                 className="text-xl font-bold tracking-tighter cursor-pointer hover:opacity-80 transition-opacity"
                 onClick={() => window.location.reload()}
             >
-                Paul Leung
+                Rahul Singh
             </div>
 
             <nav className="hidden md:flex gap-8">

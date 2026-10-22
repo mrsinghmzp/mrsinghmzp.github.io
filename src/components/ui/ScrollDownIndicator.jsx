@@ -63,7 +63,7 @@ const ScrollDownIndicator = () => {
         <AnimatePresence>
             {isVisible && (
                 <motion.div
-                    className="fixed bottom-10 left-1/2 transform -translate-x-1/2 flex flex-col items-center gap-2 cursor-pointer pointer-events-auto z-50"
+                    className="hidden md:flex fixed bottom-10 left-1/2 transform -translate-x-1/2 flex-col items-center gap-2 cursor-pointer pointer-events-auto z-50"
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: 20 }}
